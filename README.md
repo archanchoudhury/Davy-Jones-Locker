@@ -17,7 +17,7 @@ Getting FREE Cyber Security Resources have been a challenge always. Access Davy-
 
 ## YouTube-Channels
 *   **BlackPerl** - From the Owner (Which is me 🤣)BlackPerl is here to help you AMPLIFY your CYBER SECURITY knowledge. It's not JUST about general knowledge, but I'll go and deep dive in some areas for INCIDENT RESPONSE, DIGITAL FORENSICS Fundamental Ideas, Process overview, and how someone can really get deeper ideas around them.  I'll try to discuss my real world experience around DFIR to help you to improve our skills. Since KNOWLEDGE grows by sharing, my whole intention is to share our real life experiences while we're working on different INFOSEC fields to help all to get in depth. Access the Channel Here- https://www.youtube.com/c/BlackPerl
-<p align="center"> <img src="Presentation1.png" width="500" height="300"> </p>
+<p align="center"> <img src="Presentation1.jpg" width="500" height="300"> </p>
 
 *   **SimplyCyber** - The Channel is maintained by Geral Auger and he creates really awesome content for InfoSec to help IT or Information Security professionals take their career further, faster. There have been a Collab done with BlackPerl + Simply-Cyber. Access that Episode here- https://youtu.be/gfX6GqGN9Uw
 
